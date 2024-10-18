@@ -15,6 +15,6 @@ The following tasks were accomplished:
 - pie charts, using both Pandas and Matplotlib, showing the distribution of unique females vs males were generated
 - quarantiles, outliers and box plot were calculated for each mouse across four of the most promising treatment regimens
 - line plot of single mouse treated with Capomulin (mouse weight vs av tumor volumne) was generated
-- scatter plot of mouse weight vs average observed tumor for the entire Capomuling treatment was generated
+- scatter plot of mouse weight vs average observed tumor for the entire Capomulin treatment was generated
 - correlation coeffiecnet and linear regression model of mouse weight and average observed tumor volume for entire Capomulin treatment regimen with linear regression plotted.
 
